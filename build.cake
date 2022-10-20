@@ -7,8 +7,8 @@ Task("Build")
     .Does(() =>
     {
         Wyam( new WyamSettings {
-            Recipe = "Web",
-            Theme = "CleanWeb"
+            Recipe = "Blog",
+            Theme = "CleanBlog"
         });
     });
 
