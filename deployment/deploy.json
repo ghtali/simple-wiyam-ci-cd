@@ -4,7 +4,7 @@
     "parameters": {
         "webStorage": {
             "type": "string",
-            "defaultValue": "webstoragedemo"
+            "defaultValue": "webstoragedemo4590"
         }
     },
     "variables": {},
