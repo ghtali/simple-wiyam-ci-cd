@@ -11,7 +11,7 @@
     "resources": [
         {
             "type": "Microsoft.Storage/storageAccounts",
-            "apiVersion": "2018-07-01",
+            "apiVersion": "2022-05-01",
             "name": "[parameters('webStorage')]",
             "location": "[resourceGroup().location]",
             "tags": {
